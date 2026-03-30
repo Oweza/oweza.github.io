@@ -105,35 +105,35 @@ C#, CRM Systems, Network Security, Hardware, Troubleshooting, I/O Systems, Proce
 **Technologies:** HTML, CSS, JavaScript, MySQL  
 
 - Collaborated in a 6-member team to build a responsive CRUD-based e-commerce platform with 5+ product categories and multi-role listing management; achieved 90%  
-- Integrated MySQL database with dynamic forms and client-side validation  
-- Delivered features across 4 sprints within an 18-week Agile cycle  
+- Integrated MySQL database with dynamic forms and client-side validation, improving data accuracy and reducing invalid submissions  
+- Delivered core features across 4 Agile sprints within an 18-week development cycle  
 
 ---
 
 ### 🚗 Car Rental Management System | DUT | 2023  
 **Technologies:** C#  
 
-- Built a car rental system managing 50+ vehicle records (75% final grade)  
-- Implemented file handling using stream I/O for persistent storage  
-- Contributed to booking, inventory, and reporting subsystems  
+- Collaborated in a 4-member team to develop a car rental system handling 50+ vehicle records; achieved 75%  
+- Implemented file handling using stream I/O for persistent storage and retrieval with zero data loss  
+- Contributed to system documentation and user process design across booking, inventory, and reporting subsystems  
 
 ---
 
 ### 🛒 Shopping Cart System | CPUT | 2025  
-**Technologies:** PHP, MySQL/MariaDB, HTML5, CSS3  
+**Technologies:** PHP, MySQL, HTML5, CSS3, Session Management  
 
-- Developed an e-commerce platform with persistent cart and order management (86%)  
-- Designed a normalized MySQL database with 15+ products  
-- Implemented session-based cart persistence across multiple pages  
+- Developed an e-commerce platform with 3 product categories, persistent shopping cart, and full order management system; achieved 86%  
+- Designed a normalized MySQL database schema supporting multi-store inventory with 15+ products  
+- Implemented session-based state management using PHP serialization across 8+ interconnected pages  
 
 ---
 
 ### 🎓 Student Enrolment Management System | CPUT | 2025  
-**Technologies:** Java SE, Swing, JDBC, Apache Derby, Sockets  
+**Technologies:** Java SE, Swing, JDBC, Apache Derby, Socket Programming, SQL  
 
-- Developed a distributed client-server system in a 3-member team (65%)  
-- Implemented DAO pattern with full CRUD operations  
-- Designed custom TCP/IP protocol for communication  
+- Developed a distributed client-server application in a 3-member team for managing student enrolments; achieved 65%  
+- Implemented DAO pattern with full CRUD operations across 4 entities (Students, Courses, Enrolments, Users)  
+- Designed a custom TCP/IP protocol for authentication, enrolment, and data retrieval  
 
 ---
 
