@@ -30,7 +30,7 @@ ICT student specializing in Applications Development with experience in front-en
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- Java, C#, PHP, Python, JavaScript  
+- Java, C#, PHP, Python, JavaScript. 
 
 ### Web Development
 - HTML, CSS, React.js, Responsive Web Design  
