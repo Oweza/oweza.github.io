@@ -150,3 +150,6 @@ C#, CRM Systems, Network Security, Hardware, Troubleshooting, I/O Systems, Proce
 - Creativity  
 
 ---
+<video width="600" controls>
+  <source src="Mock%20Interview%20of%20Ethan%20Williams.mp4" type="video/mp4">
+</video> 
