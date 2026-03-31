@@ -29,23 +29,14 @@ ICT student specializing in Applications Development with experience in front-en
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-- Java, C#, PHP, Python, JavaScript. 
-
-### Web Development
-- HTML, CSS, React.js, Responsive Web Design  
-
-### Databases
-- SQL, MySQL  
-
-### IDEs
-- IntelliJ, NetBeans, VS Code  
-
-### Tools & Technologies
-- Git, GitHub, Power BI, Tableau, Figma, Jira  
-
-### Microsoft Office
-- Word, Excel, PowerPoint  
+| 💻 Category              | 🚀 Skills                                                                 |
+|-------------------------|--------------------------------------------------------------------------|
+| Programming Languages   | Java • C# • PHP • Python • JavaScript                                    |
+| Web Development         | HTML • CSS • React.js • Responsive Web Design                            |
+| Databases               | SQL • MySQL                                                              |
+| IDEs                    | IntelliJ • NetBeans • VS Code                                            |
+| Tools & Technologies    | Git • GitHub • Power BI • Tableau • Figma • Jira                         |
+| Microsoft Office        | Word • Excel • PowerPoint                                                |  
 
 ### Development Concepts
 - Software Development Life Cycle (SDLC)  
