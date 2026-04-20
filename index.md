@@ -144,3 +144,87 @@ C#, CRM Systems, Network Security, Hardware, Troubleshooting, I/O Systems, Proce
 <video width="600" controls>
   <source src="interview.mp4" type="video/mp4">
 </video> 
+---
+
+# 📘 Reflections (STAR Method)
+
+---
+
+## 🧠 1. Reflection on Coding in Markdown
+
+### 📍 Situation
+As part of an assignment, I was required to produce a document written in Markdown. When I first received the instruction, I assumed Markdown was a programming language and that the task involved writing actual code. This caused confusion, as I could not see how "coding" a document was supposed to work.
+
+### 🎯 Task
+My task was to understand what Markdown actually is and then use it to produce a correctly formatted document. Before I could even begin writing, I needed to clear up my own misunderstanding of what the tool was.
+
+### ⚙️ Action
+I did some research by reading through basic Markdown guides and looking at examples of how it renders. Once I understood that Markdown is a lightweight markup language used to format plain text—not a programming language—the confusion lifted.
+
+I then familiarised myself with the core syntax:
+- Headings  
+- Bullet points  
+- **Bold** and *italic* text  
+- Document structure  
+
+I worked through my document methodically, checking that the formatting rendered as expected.
+
+### ✅ Result
+What started as a confusing task became manageable once I took the time to research it properly. I was able to complete the document and, more importantly, I now understand what Markdown is and how to use it.
+
+💡 The experience taught me that when a task is unclear, the first step is always to research before assuming—a habit that applies well beyond this particular assignment.
+
+---
+
+## 🎥 2. Reflection on the Mock Interview Video Experience
+
+### 📍 Situation
+For this task, I was required to record a mock interview video of myself answering interview-style questions. I had not done anything like this before and was not familiar with the interview process in a formal sense.
+
+### 🎯 Task
+My goal was to record a clear, well-structured video response that demonstrated my ability to answer questions concisely and professionally—without it running too long or feeling disorganised.
+
+### ⚙️ Action
+The recording process was harder than expected. I recorded multiple takes because I kept making mistakes:
+- Losing my train of thought  
+- Stumbling over words  
+- Starting an answer and losing structure midway  
+
+I also struggled with length, as my answers kept running longer than necessary.
+
+Each time I re-recorded, I identified what went wrong in the previous take—whether it was the opening, middle, or ending—and focused on improving that specific part instead of restarting blindly. Gradually, my responses became shorter and more controlled.
+
+### ✅ Result
+By the time I had a final recording I was satisfied with, I had learned more about my communication habits than expected.
+
+💡 Key insights:
+- I tend to over-explain under pressure  
+- Planning an ending before speaking helps me stay concise  
+
+Although the process was uncomfortable, repetition made it valuable. Each re-take forced me to be more deliberate, and writing down my answers made the process easier over time.
+
+---
+
+## 🌐 3. Reflection on the Use of GitHub Pages
+
+### 📍 Situation
+As part of this assignment, I needed to publish my portfolio on GitHub Pages, including embedding my mock interview video so it was visible and playable directly on the site. Setting up the page was manageable, but getting the video to display correctly was a challenge.
+
+### 🎯 Task
+My task was to ensure that the mock interview video was properly embedded and accessible on my GitHub Pages site—not just that the page existed, but that the video could be viewed by anyone visiting the link.
+
+### ⚙️ Action
+After trying several approaches on my own without success, I reached out to classmates for help. Through those discussions, I learned that the issue was related to how the video file was being referenced—the path or format I was using was not compatible with how GitHub Pages serves static files.
+
+With their guidance, I adjusted my approach and successfully got the video to display correctly.
+
+### ✅ Result
+The video eventually worked as intended on the live GitHub Pages site.
+
+💡 This experience reinforced that:
+- Asking for help is a smart and efficient problem-solving strategy  
+- Understanding how tools (like GitHub Pages) handle files is important  
+
+I now feel more confident working with static content and will apply this knowledge in future projects.
+```
+
