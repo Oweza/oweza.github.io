@@ -85,7 +85,13 @@
 
 - **Evidence:** Weekly activities, technical problem-solving, completed development tasks, and attendance records.
 
-![November 2026 Internship Report](images/november-evidence.png)
+### Weekly Activities
+
+![November Work](images/November%20work%20.png)
+
+![Additional November Work](images/Second%20November%20work.png)
+
+---
 
 ---
 
