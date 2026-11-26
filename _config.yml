@@ -1,1 +1,13 @@
+title: Owenkosi Nxasana
+description: Professional and Workplace Integrated Learning Portfolio
 
+theme: minima
+
+header_pages:
+  - AGILE TEAM CHARTER.md
+  - EVIDENCE.md
+  - LOGBOOK.md
+  - REFLECTIONS.md
+  - TASKBOARD.md
+
+markdown: kramdown
