@@ -29,7 +29,7 @@
 
 ## 📅 August 2026 — Internship Onboarding and Project Integration
 
-- **Monthly Report & Attendance Register (August 2026):** Documents workplace onboarding, integration into the development team, familiarisation with existing projects, development environment configuration, and initial contributions to the InclusiVerse platform.
+- **Monthly Report & Attendance Register (August 2026):** Documents workplace onboarding at Host company, integration into the development team, familiarisation with existing projects, development environment configuration, and initial contributions to the InclusiVerse platform.
 
 - **Evidence:** Monthly activities, attendance records, and mentor feedback.
 
@@ -49,7 +49,15 @@
 
 - **Evidence:** Completed development tasks, weekly progress, attendance records, and mentor feedback.
 
-![September 2026 Internship Report](images/)
+### Weekly Activities
+
+![September Work](images/September%20work.png)
+
+![Additional September Work](images/Second%20September%20work.png)
+
+### Attendance Register
+
+![September Attendance Register](images/September%20Register.png) 
 
 ---
 
