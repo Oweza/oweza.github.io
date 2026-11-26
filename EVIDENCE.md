@@ -11,7 +11,19 @@
 
 - **Evidence:** Monthly activities, attendance records, and mentor feedback.
 
-![July 2026 Internship Report](images/july-register.png)
+### CAPACITI Evidence
+
+![July CAPACITI](images/July%20Capaciti.png)
+
+### Weekly Activities
+
+![July Work](images/Work%20July.png)
+
+![Additional July Work](images/Second%20July%20work.png)
+
+### Attendance Register
+
+![July Attendance Register](images/July%20Register.png)
 
 ---
 
