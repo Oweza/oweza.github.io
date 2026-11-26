@@ -1,5 +1,9 @@
 # LOGBOOK
 
+**Learner Name:** Owenkosi Nxasana  
+**Host Employer:** StepAhead Staffing 
+**Period:** July 2026 – November 2026
+
 ## Logbook (weekly stand-up entries)
 
 > This logbook consolidates workplace activity records into weekly stand-up entries covering July to November 2026. July covers the CAPACITI placement and August onward includes the Step Ahead placement. Entries are current up to 26 November 2026.
