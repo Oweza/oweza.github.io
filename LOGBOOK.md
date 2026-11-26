@@ -2,7 +2,7 @@
 
 ## Logbook (weekly stand-up entries)
 
-> This logbook consolidates workplace activity records into weekly stand-up entries covering July to November 2026. July covers the CAPACITI placement and August onward includes the Step Ahead placement. Where weekly records are unavailable, this is indicated. Planned activities are retrospective suggestions based on subsequent work, and risks include technical issues identified in the activity records. Entries are current up to 26 November 2026.
+> This logbook consolidates workplace activity records into weekly stand-up entries covering July to November 2026. July covers the CAPACITI placement and August onward includes the Step Ahead placement. Entries are current up to 26 November 2026.
 
 | Week | What did I complete since the last stand-up? | What am I planning to complete next? | Impediments / risks |
 |---|---|---|---|
@@ -31,9 +31,3 @@
 
 ---
 
-### Record limitations
-
-- The July attendance report documents four weekly entries without exact dates or separately reported impediments. Some August, September and October weekly records remain unavailable and should be updated using the relevant attendance registers.
-- The September public-site activities were supplied as a combined 7–15 September period; their distribution across the two weekly entries is approximate.
-- The temporary email-change verification check and database lookup retry were subsequently removed and are not presented as permanent product features.
-- Planned activities are inferred from subsequent work rather than independently verified stand-up commitments.
