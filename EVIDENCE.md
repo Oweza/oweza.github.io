@@ -11,7 +11,7 @@
 
 - **Evidence:** Monthly activities, attendance records, and mentor feedback.
 
-![August 2026 Internship Report](images/august-evidence.png)
+![July 2026 Internship Report](images/july-register.png)
 
 ---
 
