@@ -2,7 +2,6 @@
 layout: page
 title: REFLECTIONS
 ---
-# REFLECTIONS
 
 ## Agile Team Charter Reflection
 
