@@ -5,6 +5,16 @@
 
 ---
 
+## 📅 July 2026 — AI Bootcamp and Professional Development
+
+- **Monthly Report & Attendance Register (August 2026):** Documents weekly internship activities, practical learning, technical development, and workplace responsibilities.
+
+- **Evidence:** Monthly activities, attendance records, and mentor feedback.
+
+![August 2026 Internship Report](images/august-evidence.png)
+
+---
+
 ## 📅 August 2026 — Internship Onboarding and Project Integration
 
 - **Monthly Report & Attendance Register (August 2026):** Documents workplace onboarding, integration into the development team, familiarisation with existing projects, development environment configuration, and initial contributions to the InclusiVerse platform.
@@ -21,7 +31,7 @@
 
 - **Evidence:** Completed development tasks, weekly progress, attendance records, and mentor feedback.
 
-![September 2026 Internship Report](images/september-evidence.png)
+![September 2026 Internship Report](images/)
 
 ---
 
