@@ -1,8 +1,7 @@
 ---
 layout: page
-title: AGILE TEAM CHARTER
+title: 📋 AGILE TEAM CHARTER
 ---
-# 📋 AGILE TEAM CHARTER
 
 ## 🎯 1. Purpose and Core Values
 
