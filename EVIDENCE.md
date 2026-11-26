@@ -93,7 +93,7 @@
 
 ### Attendance Register
 
-![November Attendance Register](images/November%20Register%20.png)
+![November Attendance Register](images/November%20Register.png)
 
 ---
 
