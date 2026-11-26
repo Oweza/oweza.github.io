@@ -67,7 +67,15 @@
 
 - **Evidence:** Technical achievements, project contributions, attendance records, and mentor feedback.
 
-![October 2026 Internship Report](images/october-evidence.png)
+### Weekly Activities
+
+![October Work](images/October%20work.png)
+
+![Additional October Work](images/Second%20October.png)
+
+### Attendance Register
+
+![October Attendance Register](images/October%20Register%20.png)
 
 ---
 
