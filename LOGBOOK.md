@@ -1,3 +1,7 @@
+---
+layout: page
+title: LOGBOOK
+---
 # LOGBOOK
 
 **Learner Name:** Owenkosi Nxasana  
