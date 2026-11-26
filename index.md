@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 👤 Owenkosi Nxasana
 
 📍 Cape Town, South Africa  
