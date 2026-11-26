@@ -9,7 +9,7 @@ title: Home
   <tr>
     <td style="width:44%; padding:15px; vertical-align:middle;">
       <img 
-        src="{{ '/images/profile.png' | relative_url }}"
+        src="{{'/images/profile.JPG' | relative_url }}"
         alt="Owenkosi Nxasana"
         style="width:250px; max-width:100%; height:auto; display:block;">
     </td>
