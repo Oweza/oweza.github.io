@@ -11,6 +11,8 @@
 - **Communication Platforms:**
   - **Microsoft Teams:** The primary platform for team collaboration, discussions, and project meetings.
   - **SmarterMail:** Used for internal correspondence and scheduling.
+  - **Click-up:** Used for internal correspondence and scheduling.
+  
 
 - **📅 Weekly Scrum Meetings:**
   - **Monday:** 11:00 AM.
