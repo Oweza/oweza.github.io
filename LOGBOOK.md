@@ -1,7 +1,7 @@
 # LOGBOOK
 
 **Learner Name:** Owenkosi Nxasana  
-**Host Employer:** StepAhead Staffing 
+**Host Employer:** StepAhead Staffing
 **Period:** July 2026 – November 2026
 
 ## Logbook (weekly stand-up entries)
