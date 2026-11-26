@@ -2,7 +2,6 @@
 layout: page
 title: TASKBOARD
 ---
-# TASKBOARD
 
 ## Contains: Product Backlog, Sprint Backlog & User Stories and Tasks
 
