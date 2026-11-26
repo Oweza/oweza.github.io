@@ -35,5 +35,4 @@ This Kanban-style taskboard retrospectively groups documented workplace activiti
 
 - Academic study leave: 16–24 November 2026; work resumed on 25 November.
 - The temporary Microsoft email-change check and database lookup retry were removed and are not listed as completed product features.
-- No formal facilitator sign-offs or sprint ceremonies are assumed beyond the documented CAPACITI stand-ups and workplace activities.
 - Suggested future enhancements and testing are not represented as assigned or completed work.
