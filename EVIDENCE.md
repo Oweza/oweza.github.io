@@ -1,8 +1,7 @@
 ---
 layout: page
-title: EVIDENCE
+title:📂 EVIDENCE
 ---
-# 📂 EVIDENCE
 
 > This section presents supporting evidence of my Work-Integrated Learning (WIL) experience through monthly reports and attendance registers. The selected extracts highlight weekly activities, technical achievements, mentor feedback, and attendance records. Relevant sections of the reports are included to demonstrate my professional development, practical experience, and progress throughout the internship.
 
