@@ -91,6 +91,10 @@
 
 ![Additional November Work](images/Second%20November%20work.png)
 
+### Attendance Register
+
+![November Attendance Register](images/November%20Register%20.png)
+
 ---
 
 ---
