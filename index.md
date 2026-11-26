@@ -1,15 +1,37 @@
 ---
 layout: default
+title: Home
 ---
 
-# 👤 Owenkosi Nxasana
+<hr>
 
-📍 Cape Town, South Africa  
-📱 073 940 3271  
-📧 nxasana.owe@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/owenkosi-nxasana-32bb16314/)
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td style="width:44%; padding:15px; vertical-align:middle;">
+      <img 
+        src="{{ '/images/profile.jpg' | relative_url }}"
+        alt="Owenkosi Nxasana"
+        style="width:250px; max-width:100%; height:auto; display:block;">
+    </td>
+    <td style="width:56%; padding:20px; vertical-align:middle;">
+      <strong style="font-size:20px;">
+        Applications Development Student
+      </strong>
+      <br>
+      📍 Cape Town, South Africa
+      <br>
+      📧 <a href="mailto:nxasana.owe@gmail.com">nxasana.owe@gmail.com</a>
+      <br>
+      📞 +27 73 940 3271
+      <br>
+      🔗 <a href="https://github.com/YOUR-USERNAME">GitHub</a>
+      <br>
+      🔗 <a href="https://www.linkedin.com/in/owenkosi-nxasana-32bb16314/">LinkedIn</a>
+    </td>
+  </tr>
+</table>
 
----
+<hr>
 
 ## 🧾 Professional Summary
 
